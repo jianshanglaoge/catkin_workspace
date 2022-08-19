@@ -1,0 +1,8 @@
+prefix=/home/wang/catkin_workspace/devel
+
+Name: my_telep_keyboard
+Description: Description of my_telep_keyboard
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
